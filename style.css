@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+    
+}
+.box {
+    background-color: antiquewhite;
+    color:darkgoldenrod;
+    border: 4px solid brown;
+    margin-bottom: 18px;
+    padding: 16px;
+    width: 50%;
+    border-radius: 12px;
+}
+.box h2 {
+    margin-top: 0;
+    color:purple;
+}
