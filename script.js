@@ -1,7 +1,7 @@
 console.log("hello!");
 
 const tags = ["vegan", "spicy", "late night"];
-const prices = [6.5, 5.5, 3, 4.5];
+const prices = [6.5, 5.5, 6.25, 3];
 
 console.log(tags, prices);
 
